@@ -51,5 +51,5 @@ The analysis demonstrates how combining quantitative ratings with NLP-based sent
 
 🔗 Project Resources
 
-📄 Report: Available in the report/ folder
+📄 Report: Available in the files
 📓 Notebook: : https://bit.ly/4k73OwV
