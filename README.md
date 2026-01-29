@@ -31,7 +31,6 @@ matplotlib – data visualization
 
 🧠 Methodology
 
-Imported and explored the dataset
 Cleaned missing and inconsistent values
 Analyzed rating distributions and satisfaction trends
 Applied sentiment analysis using TextBlob
